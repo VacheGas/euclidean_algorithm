@@ -1,11 +1,12 @@
 //
 //  main.cpp
-//  euclidean_algorithm_xcode
+//  euclidean_algorithm
 //
 //  Created by Vache Gasparyan on 23.10.22.
 //
 
 #include <iostream>
+
 int euclidean_algorithm(int div1, int div2) {
     int result = 0;
     
